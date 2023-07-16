@@ -1,0 +1,9 @@
+
+/* please change if you want to use tailwind instead of bootstrap */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* styles.css */
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
